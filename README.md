@@ -1,5 +1,7 @@
 # DevOps Pipeline Lab
 
+[![CI/CD Pipeline](https://github.com/Matheus5339/devops-pipeline-lab/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/Matheus5339/devops-pipeline-lab/actions/workflows/ci-cd.yml)
+
 Projeto DevOps desenvolvido com FastAPI, Docker, GitHub Actions e Railway.
 
 ## Tecnologias Utilizadas
